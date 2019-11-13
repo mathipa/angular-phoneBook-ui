@@ -9,7 +9,7 @@ A simple Angular Phonebook  to demonstrate the use of Angular features including
 
 <h1>Run app</h1>
 
-Clone repo git clone https://github.com/imshubhamsingh/PhoneBook.git
+Clone repo git clone https://github.com/mathipa/angular-PhoneBook.git
 
 
 - cd angular-phoneBook
